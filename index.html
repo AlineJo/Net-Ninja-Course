@@ -11,7 +11,91 @@
 
 <body>
 
-    <h1>Grid</h1>
+    <div class="shadow m-5 p-5">
+        <h1 class="display-1">Grid Examples </h1>
+        <p class="display-6 my-5"> placing elements on rows and columns. Bootstrap uses 12-Column system, in other words
+            you can set the width of a column to be anything from 1-12.</p>
+
+        <p class="lead display-6 my-5"> You need to place a grid inside a container -any container including
+            (container-sm, container-lg,...)-.</p>
+    </div>
+
+    <!-- basic grid example -->
+    <div class="container-lg my-5">
+        <h2 class="display-2">Basic Grid</h2>
+
+        <div class="row">
+            <div class="col">
+                <p class="p-5 display-6 bg-primary text-light"> Column 1</p>
+            </div>
+            <div class="col">
+                <p class="p-5 display-6 bg-success text-light"> Column 2</p>
+            </div>
+            <div class="col">
+                <p class="p-5 display-6 bg-warning"> Column 3</p>
+            </div>
+            <div class="col">
+                <p class="p-5 display-6 bg-danger text-light"> Column 4</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- col width example -->
+    <div class="container-lg my-5">
+        <h2 class="display-2">Column Width</h2>
+        <p> as long as columns addup to 12 you will be fine</p>
+
+        <div class="row">
+            <div class="col-6">
+                <p class="p-5 display-6 bg-primary text-light"> Column 1</p>
+            </div>
+            <div class="col-3">
+                <p class="p-5 display-6 bg-success text-light"> Column 2</p>
+            </div>
+            <div class="col-3">
+                <p class="p-5 display-6 bg-warning"> Column 3</p>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- responsive columns -->
+    <div class="container-lg my-5">
+        <h2 class="display-2">responsive columns </h2>
+        <p> using col-* you can spacify the number of columns the element occupies base on screen size.</p>
+        <p>For Example you want a div to take 4 cols in small screen but 8 cols in big screen. the do :</p>
+        <p class="lead fw-bold"> &lt;div class="col-sm-4 col-lg-8"&gt; </p>
+
+        <div class="row">
+            <div class="col-sm-4 col-lg-6">
+                <p class="p-5 display-6 bg-primary text-light"> Column 1</p>
+            </div>
+            <div class="col-sm-4 col-lg-3">
+                <p class="p-5 display-6 bg-success text-light"> Column 2</p>
+            </div>
+            <div class="col-sm-4 col-lg-3">
+                <p class="p-5 display-6 bg-warning"> Column 3</p>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container-lg my-5">
+        <h2 class="display-2">Justifying content </h2>
+        <p>col-md-3 means it will take 12-Column width until it reach md size where it will take only 3 columns.</p>
+        <p> you can justify-content- start/center/end/between/around </p>
+        <div class="row justify-content-around">
+            <div class="col-md-3">
+                <p class="p-5 display-6 bg-primary text-light"> Column 1</p>
+            </div>
+            <div class="col-md-3">
+                <p class="p-5 display-6 bg-primary text-light"> Column 1</p>
+            </div>
+            <div class="col-md-3">
+                <p class="p-5 display-6 bg-primary text-light"> Column 1</p>
+            </div>
+        </div>
+    </div>
 
 
 
