@@ -13,3 +13,5 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
 > vid 5 : https://www.youtube.com/watch?v=nCeHeA7IsvU&list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR&index=5
 
 > vid 6 : https://www.youtube.com/watch?v=Y6q8R-9y6a0&list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR&index=6
+
+> vid 7 : https://youtu.be/irfbn103AzE?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
