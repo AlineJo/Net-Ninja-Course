@@ -20,3 +20,5 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
 
 > vid-9 : https://youtu.be/7AT1X9Z41sA?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
 
+> vid-10 : https://youtu.be/NRoET8-8cbw?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
+
