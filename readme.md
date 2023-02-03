@@ -1,8 +1,7 @@
-> This project is the result of watching bootstrap courese on the https://www.youtube.com/@NetNinja/ channel!
+> ## This project is the result of watching bootstrap courese on the https://www.youtube.com/@NetNinja/ channel!
 
 
-> Course Link : 
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
+> ## Course Link : https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
 
 > vid 1 : https://www.youtube.com/watch?v=O_9u1P5YjVc&list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
 
@@ -22,3 +21,4 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
 
 > vid-10 : https://youtu.be/NRoET8-8cbw?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
 
+> vid-11 : https://youtu.be/cVThXv6hYW0?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
